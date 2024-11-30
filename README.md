@@ -6,7 +6,7 @@ My name is Harun Onur, and I'm a passionate learner on my journey to becoming a 
 
 One of the things that brings me the most joy is sharing what I’ve learned with others. Whether it’s helping friends or discussing ideas with colleagues, I believe that knowledge is best when it’s shared. I also enjoy spending time with my friends, relaxing with a good movie or series, and keeping a balance between work and play.
 
-Currently, I’m working on an exciting new project—starting a company. The goal is to create breakthrough innovations and develop solutions that haven’t been seen before. I’m driven by the idea of pushing boundaries and exploring uncharted territories, and I hope to make a real impact with this venture.
+<!--Currently, I’m working on an exciting new project—starting a company. The goal is to create breakthrough innovations and develop solutions that haven’t been seen before. I’m driven by the idea of pushing boundaries and exploring uncharted territories, and I hope to make a real impact with this venture.-->
 
 Thank you for stopping by, and I hope you enjoy exploring my work!
 
